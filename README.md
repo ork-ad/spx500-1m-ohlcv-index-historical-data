@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `SPX500_1m.csv` (172,413 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **5,262,284** `1m` rows (~273.2 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
+> **Sample on GitHub** · `SPX500_1m.csv` (172,413 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **5,262,284** `1m` rows (~293.29 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/spx500-1m-ohlcv-index-his
 | Instrument | S&P 500 · Stock index | S&P 500 · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 172,413 | **5,262,284** |
-| Size | 9.32 MB | ~273.2 MB |
+| Size | 9.32 MB | ~293.29 MB |
 | Period | `2025-12-26` → `2026-06-26` | `2009-03-11` → `2026-06-26` |
 | File | `SPX500_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
